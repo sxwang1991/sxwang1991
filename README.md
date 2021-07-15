@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Wang Zhenyi (王贞仪, 1768 – 1797) was a Chinese scientist and mathematician living during the Qing dynasty. Despite laws and customs preventing women from receiving higher education, she studied subjects like astronomy, mathematics, geography and medicine.
+
+In her books and articles, Wang wrote about trigonometry and Pythagoras’ theorem, studied solar and lunar eclipses, and explained many other celestial phenomena.
+
 <!--
 **sxwang1991/sxwang1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
